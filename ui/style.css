@@ -1,4 +1,4 @@
-body {
+/*body {
     font-family: sans-serif;
     background-color: lightgrey;
     margin-top: 75px;
@@ -18,5 +18,274 @@ body {
 
 .img-medium {
     height: 200px;
+} */
+
+
+li{
+display:inline;
+padding-right:30px;
+}
+body{
+	font-family: sans-serif;
+	background-color: #D0D3D4;
+	background-repeat: no-repeat;
+	background-size: 1650px  665px;
+}
+ul a{
+	text-decoration: none;
+	color: white;
+}
+ul a:hover{
+	text-decoration: underline;
+	color: black;
+	font-size: 20px;
+}
+#header{
+padding:0px;
+background-color: #8E44AD;
+font-size: 20px;
+font-family: aerial;
+}
+.footer{
+padding:0px;
+color:white;
+background-color: white;
+text-align:center;
+}
+.chris1{
+padding:15px;
+color:black;
+text-align: left;
+font-size: 15px;
+margin-right: 400px;
+background-color: #DCDCDC;
+margin-top: 150px;
+}
+.chris{
+	position: absolute;
+    right: 0px;
+    padding: 10px;
+    margin-right: 100px;
+    margin-top: 150px;
+
+}
+.p{
+	font-size: 30px;
+	text-align: center;
+	font-style: oblique;
+	font-family: Times New Roman;
+}
+	.sergio{
+	position: absolute;
+    padding: 10px;
+margin-left: 100px;
+margin-top: 150px;
+}
+   .sergio1{
+padding:15px;
+color:black;
+text-align: right;
+font-size: 15px;
+margin-left: 600px;
+background-color: #DCDCDC;
+margin-top: 150px;
+} 
+.neymar{
+	position: absolute;
+    right: 0px;
+    padding: 10px;
+    margin-right: 100px;
+    margin-top: 150px;
+}
+.neymar1{
+padding:15px;
+color:black;
+text-align: left;
+font-size: 15px;
+margin-right: 400px;
+background-color: 	#DCDCDC;
+margin-top: 150px;
+  }
+  .andres{
+	position: absolute;
+    padding: 10px;
+margin-left: 100px;
+margin-top: 150px;
+}
+    .andres1{
+padding:15px;
+color:black;
+text-align: right;
+font-size: 15px;
+margin-left: 600px;
+background-color: #DCDCDC;
+margin-top: 150px;
+}
+.arjen{
+	position: absolute;
+    right: 0px;
+    padding: 10px;
+    margin-right: 100px;
+    margin-top: 150px;
+}
+.arjen1{
+padding:15px;
+color:black;
+text-align: left;
+font-size: 15px;
+margin-right: 400px;
+background-color: 	#DCDCDC;
+ margin-top: 150px; 
+}
+.gareth{
+	position: absolute;
+    padding: 10px;
+margin-left: 100px;
+margin-top: 150px;
+}
+    .gareth1{
+padding:15px;
+color:black;
+text-align: right;
+font-size: 15px;
+margin-left: 600px;
+background-color: #DCDCDC;
+margin-top: 150px;
+}
+.luis{
+	position: absolute;
+    right: 0px;
+    padding: 10px;
+    margin-right: 100px;
+
+    margin-top: 150px;
+}
+.luis1{
+padding:15px;
+color:black;
+text-align: left;
+font-size: 15px;
+margin-right: 400px;
+background-color: 	#DCDCDC;
+margin-top: 150px;
+  
+}
+.manuel{
+	position: absolute;
+    padding: 10px;
+margin-left: 100px;
+margin-top: 150px;
+}
+    .manuel1{
+padding:15px;
+color:black;
+text-align: right;
+font-size: 15px;
+margin-left: 600px;
+background-color: #DCDCDC;
+margin-top: 150px;
+}
+.zlatan{
+	position: absolute;
+    right: 0px;
+    padding: 10px;
+    margin-right: 100px;
+margin-top: 150px;
+
+}
+.zlatan1{
+padding:15px;
+color:black;
+text-align: left;
+font-size: 15px;
+margin-right: 400px;
+background-color: 	#DCDCDC;
+margin-top: 150px;
+  
+}
+.david{
+	position: absolute;
+    padding: 10px;
+margin-left: 100px;
+margin-top: 150px;
+}
+    .david1{
+padding:15px;
+color:black;
+text-align: right;
+font-size: 15px;
+margin-left: 600px;
+background-color: #DCDCDC;
+margin-top: 150px;
+}
+.new{
+	margin-left: 20px;
+	margin-right: 10px;
+}
+.cpy{
+	padding:10px;
+color:white;
+background-color: black;
+text-align:center;
+margin-top: 50px;
+}
+.mb2{
+	color: black;
+	font-family: georgia;
+	font-size: 15px;
+	text-align: right;
+	padding: 20px;
+	background-color: white;
+
+}
+.mb{
+	margin-top: 100px;
+	margin-left: 120px;
+border-color: white;
+}
+.list{
+	color: white;
+	font-family: georgia;
+	font-size: 20px;
+	text-align: center;
+	padding: 50px;
+	background-color: #809fff;
+margin-top: 600px;
+}
+.dev{
+	font-size: 25px;
+	text-align: center;
+	color: black;
+	margin-top: 80px;
+	font-style: italic;
+	font-family: georgia;
+}
+.dev2{
+	;
+	background-color: #69817c;
+	padding: 70px;
+	margin-top: 20px;
+	font-family: cursive;
+	margin-left: 500px;
+}
+.sub{
+	margin-top: 50px;
+	background-color: #809fff;
+	padding: 5px;
+	font-size: 15px;
+	font-family: cursive;
+  }
+
+  .events{
+	color:red;
+	font-family: georgia;
+	font-size: 15px;
+	text-align: center;
+	padding: 5px;
+	background-color: #ffff80;
+margin-top: 70px;
+background-image: url("myach.jpg");
+background-size: 1400px 800px;
+background-repeat: no-repeat;
 }
 
