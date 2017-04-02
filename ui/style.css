@@ -29,7 +29,7 @@ body{
 	font-family: sans-serif;
 	background-color: #D0D3D4;
 	background-repeat: no-repeat;
-	background-size: 1750px  665px;
+	background-size: 1650px  665px;
 }
 ul a{
 	text-decoration: none;
@@ -267,6 +267,7 @@ margin-top: 600px;
 	margin-top: 20px;
 	font-family: cursive;
 	margin-left: 500px;
+	border-radius: 25px;
 }
 .sub{
 	margin-top: 50px;
