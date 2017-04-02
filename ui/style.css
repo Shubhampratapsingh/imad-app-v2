@@ -288,29 +288,6 @@ background-image: url("https://wallpaperscraft.com/image/soccer_ball_football_sp
 background-size: 1400px 800px;
 background-repeat: no-repeat;
 }
-    @media only screen and (min-width: 720px) {
-    html
-    {
-        max-width:100%;
-        margin:auto;
-        display:block;
-    }
-}
-}
-@media only screen and (min-width: 720px) {
-     img
-    {
-        max-width:100%;
-        margin:auto;
-        display:block;
-    }
-}
-@media only screen and (min-width: 720px) {
-    body
-    {
-        max-width:100%;
-        margin:auto;
-        display:block;
-    }
+   
 }
 
