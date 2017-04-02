@@ -297,4 +297,20 @@ background-repeat: no-repeat;
     }
 }
 }
+@media only screen and (min-width: 720px) {
+     img
+    {
+        max-width:100%;
+        margin:auto;
+        display:block;
+    }
+}
+@media only screen and (min-width: 720px) {
+    body
+    {
+        max-width:100%;
+        margin:auto;
+        display:block;
+    }
+}
 
